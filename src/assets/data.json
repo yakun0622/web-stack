@@ -1,0 +1,51 @@
+[
+    {
+        "name": "私人空间",
+        "en_name": "Personal",
+        "icon": "linecons-user",
+        "web": [
+            {
+                "url": "https://yakun0622.github.io/",
+                "logo": "https://yakun.oss-cn-hangzhou.aliyuncs.com/logos/github.jpeg",
+                "title": "个人博客",
+                "desc": "基于Github搭建的Hexo版博客"
+            },
+            {
+                "url": "https://nas.yakun.tk/",
+                "logo": "https://yakun.oss-cn-hangzhou.aliyuncs.com/logos/dsm.png",
+                "title": "群晖-DSM",
+                "desc": "家庭私有云存储"
+            },
+            {
+                "url": "http://app1905.cn:6060/",
+                "logo": "https://yakun.oss-cn-hangzhou.aliyuncs.com/logos/nps.svg",
+                "title": "NPS管理",
+                "desc": "内网穿透NPS服务端管理"
+            },
+            {
+                "url": "http://app1905.cn:12386/",
+                "logo": "https://yakun.oss-cn-hangzhou.aliyuncs.com/logos/jellyfin.webp",
+                "title": "Jellyfin",
+                "desc": "jellyfin媒体库"
+            },
+            {
+                "url": "http://app1905.cn:12353/",
+                "logo": "https://yakun.oss-cn-hangzhou.aliyuncs.com/logos/calibre.png",
+                "title": "Calibre",
+                "desc": "私有图书馆"
+            },
+            {
+                "url": "http://app1905.cn:12353/",
+                "logo": "https://yakun.oss-cn-hangzhou.aliyuncs.com/logos/wiznote.jpg",
+                "title": "Wiznote",
+                "desc": "个人版为知笔记"
+            },
+            {
+                "url": "http://app1905.cn:12380",
+                "logo": "https://yakun.oss-cn-hangzhou.aliyuncs.com/logos/kodcloud.png",
+                "title": "可道云",
+                "desc": "存储资料及各类文件"
+            }
+        ]
+    }
+]
